@@ -1,3 +1,3 @@
-import streamlit
+import streamlit as sr
 
 sr.write("test app....")
